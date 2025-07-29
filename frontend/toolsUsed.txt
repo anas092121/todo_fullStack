@@ -1,0 +1,3 @@
+render.com : for backend hotsing
+vercel/vite : for frontend react hotsing
+mondo DB Atlas : for Backend Database

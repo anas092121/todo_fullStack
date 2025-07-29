@@ -1,0 +1,35 @@
+[33mcommit e343ec8ec0e8041a75aaf1a40207124d3a704fac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mohammad Anas <anas092121@gmail.com>
+Date:   Sun Jul 27 23:27:59 2025 +0530
+
+    Logout message added
+
+[33mcommit ed1aecbde1cd3fc794774aa6c40a2709d4046bf9[m
+Author: Mohammad Anas <anas092121@gmail.com>
+Date:   Sun Jul 27 21:50:14 2025 +0530
+
+    register new user-route is updated, there is minor error
+
+[33mcommit 207b3e50b87e50f4f513adaae83b4a0bfc12620e[m
+Author: Mohammad Anas <anas092121@gmail.com>
+Date:   Sat Jul 26 22:53:14 2025 +0530
+
+    db connection updated
+
+[33mcommit e3b1f2e63764211d000c5de55673fdcb169220e9[m
+Author: Mohammad Anas <anas092121@gmail.com>
+Date:   Sat Jul 26 21:53:12 2025 +0530
+
+    cors module is added to connect backend to frontend
+
+[33mcommit 68fc547108a19b456bd5f2ffbd57e1f02d1b42ed[m
+Author: Mohammad Anas <anas092121@gmail.com>
+Date:   Sat Jul 26 19:55:32 2025 +0530
+
+    Backend Part is Complted
+
+[33mcommit 47b1572e804114a365eb717bb2377692d04c07b2[m
+Author: Mohammad Anas <anas092121@gmail.com>
+Date:   Tue Jul 22 16:18:40 2025 +0530
+
+    Initial commit
