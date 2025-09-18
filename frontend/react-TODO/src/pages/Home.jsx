@@ -103,7 +103,6 @@ const Home = () => {
               placeholder="Description"
               value={description}
               onChange={(e) => setDescription(e.target.value)}
-              required
             />
 
             <button disabled={loading} type="submit">
